@@ -26,7 +26,7 @@ public class StepTracker
    return 0.0;
   }
   else{
-   return (double)totalSteps/totalDays;
+   return (double)allSteps/days;
   }
  }
 }
